@@ -1,0 +1,1 @@
+["V\u00e9g\u00e9tarienne", 7.8, ["champignons", "tomate", "oignons", "poivrons"], true]
